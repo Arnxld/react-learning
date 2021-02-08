@@ -1,0 +1,14 @@
+.outputBox {
+    
+    box-sizing: border-box;
+    width: 240px;
+    padding: 32px;
+    background: #111;
+    color: #DDD;
+    border: 1px solid #AAA;
+    margin: 8px auto;
+}
+
+.outputBox:first-child {
+    margin-top: 120px;
+}
